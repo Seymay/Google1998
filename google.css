@@ -1,0 +1,55 @@
+
+input[type=text]{          /* type'ı text olan inputa etki et*/
+    border: 1px solid black;
+    width: 300px;
+    height: 20px;  
+}
+.konum
+{
+    margin-left: 550px;
+    margin-right: 400px;
+}
+.buttonknm{
+    margin-left: 590px;
+    margin-right: 400px;
+}
+
+.box{
+   
+    border: 0px solid rgb(0, 0, 0);
+    width: 400px;
+    text-align: center; 
+    float: left;
+   
+    
+}
+.kutu{
+    margin-left: 90px;
+    margin-right: 2px;
+}
+
+.boxpadding{
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+.boxpadding2{
+    padding-top: 3px;
+    padding-bottom: 7px;
+}
+.box2
+{
+    
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.dıskisim{
+    width: 1800px; 
+    height:100px;
+    margin-right: 250;
+}
+p{
+    font-size: 15px;
+}
+h4{
+    text-align: center;
+}
